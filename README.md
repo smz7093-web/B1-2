@@ -337,7 +337,7 @@
 #### 📸 이미지 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Midjourney 또는 DALL-E 3 |
+| **도구명** | Gemini Flash |
 | **사용 목적** | 예당호 수변길의 풍경 이미지 생성 (실제 촬영이 어려운 경우) |
 | **입력 프롬프트** | `A serene lakeside path at Yedang Lake during golden hour, with calm water reflecting the sky, natural vegetation, premium and peaceful atmosphere, 16:9 cinematic shot` |
 | **출력 결과 요약** | 예당호의 차분하고 프리미엄한 수변길 풍경 이미지 |
