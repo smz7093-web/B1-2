@@ -400,7 +400,7 @@
 #### 📸 이미지 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Midjourney 또는 실제 촬영 영상 사용 |
+| **도구명** | Gemini Flash |
 | **사용 목적** | 해설사와 방문객이 상호작용하는 장면 생성 (실제 촬영이 어려운 경우) |
 | **입력 프롬프트** | `A local storyteller or farmer explaining the history of Yedang Lake to visitors, warm and engaging atmosphere, natural lighting, cinematic composition, 16:9` |
 | **출력 결과 요약** | 지역 해설사가 방문객들에게 이야기하는 따뜻한 장면 |
@@ -472,7 +472,7 @@
 #### 📸 이미지 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Midjourney / Gemini Flash |
+| **도구명** | Gemini Flash |
 | **사용 목적** | 여성 요리연구가의 고급스러운 플레이팅 오프닝 장면 생성 |
 | **입력 프롬프트** | `A stylish female chef delicately plating a fine-dining dish using fresh local ingredients, modern open kitchen with a subtle view of Yedang Lake, warm elegant spot lighting, ultra-detailed, cinematic 16:9` |
 | **출력 결과 요약** | 요리연구가의 정갈하고 품격 있는 파인다이닝 플레이팅 장면 |
@@ -535,7 +535,7 @@
 #### 📸 이미지 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Midjourney / Gemini Flash |
+| **도구명** | Gemini Flash |
 | **사용 목적** | 통창 너머 호수를 배경으로 펼쳐지는 미식 테이블 및 브랜드 분위기 완성 |
 | **입력 프롬프트** | `A high-end restaurant dining table overlooking Yedang Lake during dusk, elegant table setting with artistic dishes, warm ambient lighting, peaceful premium atmosphere, 16:9 cinematic shot` |
 | **출력 결과 요약** | 예당호 뷰를 담은 프리미엄 미식 공간의 대표 비주얼 |
