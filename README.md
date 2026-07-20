@@ -443,66 +443,129 @@
 
 ---
 
-## 🎬 씬 3: 핵심 가치 - 농부의 밥상
+## 🎬 씬 3: 핵심 가치 - 요리연구가의 스토리 다이닝
 
 ### 기본 정보
 | 항목 | 내용 |
 |------|------|
 | **씬 번호** | 3 |
 | **씬 길이** | 2.5초 |
-| **목표 메시지** | 농부와 함께하는 따뜻한 밥상의 경험으로 브랜드의 차별점을 강조한다 |
+| **목표 메시지** | 세련된 요리연구가의 미식 퍼포먼스로 예당호 식재료의 프리미엄한 가치를 전달한다 |
 
 ### 화면 구성
 | 항목 | 내용 |
 |------|------|
-| **구도** | 클로즈업 + 와이드샷 (16:9) |
-| **피사체** | 농부의 손으로 음식을 담는 모습, 함께 밥을 먹는 방문객들, 식탁 위의 음식 |
-| **배경** | 소박한 식탁, 예당호가 보이는 창문 또는 야외 식탁 |
-| **텍스트 유무** | 있음 - 슬로건의 마지막 부분 자막 |
+| **구도** | 미디엄/클로즈업 샷 (16:9) |
+| **피사체** | 모던한 오픈 키친 중앙에서 세련된 착장의 여성 요리연구가가 로컬 식재료를 섬세하게 디쉬에 플레이팅하는 모습 |
+| **배경** | 예당호 뷰가 은은하게 비치는 정갈하고 모던한 미식 공간 (은은한 핀 조명) |
+| **텍스트 유무** | 있음 - 핵심 슬로건 자막 |
 
 ### 내레이션 및 음향
 | 항목 | 내용 |
 |------|------|
 | **내레이션** | 없음 |
-| **화면 카피** | "농부의 밥상을 맛본다" (자막, 1.5초 노출) |
-| **배경음악/음향** | 식사 소리 (수저 소리, 밥 담는 소리) + 웃음소리 + 잔잔한 배경음악 |
+| **화면 카피** | "예당의 이야기를 담아낸 프리미엄 다이닝" (자막, 1.5초 노출) |
+| **배경음악/음향** | 섬세한 플레이팅 소리 (집게 소리, 정갈한 오케스트라 첼로/피아노 선율) |
 
 ### 제작 도구 및 방법
 
 #### 📸 이미지 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Midjourney 또는 실제 촬영 |
-| **사용 목적** | 농부의 손과 따뜻한 밥상 장면 생성 |
-| **입력 프롬프트** | `Close-up of farmer's hands serving traditional Korean food on a table overlooking Yedang Lake, warm lighting, authentic and intimate atmosphere, cinematic, 16:9` |
-| **출력 결과 요약** | 농부의 손으로 음식을 담는 따뜻한 장면 |
-| **생성 파일명** | `Scene3_Farmer_Table_CloseUp_v1.png` |
-
-#### 📸 이미지 생성 도구 (추가)
-| 항목 | 내용 |
-|------|------|
-| **도구명** | Midjourney |
-| **사용 목적** | 함께 밥을 먹는 방문객들의 표정 생성 |
-| **입력 프롬프트** | `Wide shot of diverse visitors smiling and eating together at a rustic table with Yedang Lake view in background, warm golden hour lighting, joyful atmosphere, 16:9` |
-| **출력 결과 요약** | 방문객들이 함께 식사하며 웃는 따뜻한 장면 |
-| **생성 파일명** | `Scene3_Visitors_Dining_v1.png` |
+| **도구명** | Midjourney / Gemini Flash |
+| **사용 목적** | 여성 요리연구가의 고급스러운 플레이팅 오프닝 장면 생성 |
+| **입력 프롬프트** | `A stylish female chef delicately plating a fine-dining dish using fresh local ingredients, modern open kitchen with a subtle view of Yedang Lake, warm elegant spot lighting, ultra-detailed, cinematic 16:9` |
+| **출력 결과 요약** | 요리연구가의 정갈하고 품격 있는 파인다이닝 플레이팅 장면 |
+| **생성 파일명** | `Scene3_Chef_Plating_v1.png` |
 
 #### 🎥 비디오 생성/변환 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Adobe Premiere Pro 또는 DaVinci Resolve |
-| **사용 목적** | 여러 각도의 식사 장면 편집, 색감 보정 |
-| **입력 프롬프트** | `Edit 2.5-second sequence: close-up of farmer's hands → medium shot of food on table → wide shot of people eating together, smooth transitions, warm color grading, cinematic` |
-| **출력 결과 요약** | 2.5초의 따뜻한 식사 장면 영상 (3개 컷 전환) |
-| **생성 파일명** | `Scene3_Dining_Video_2.5s_v1.mp4` |
+| **도구명** | Runway ML 또는 Adobe Premiere Pro |
+| **사용 목적** | 플레이팅 손짓 및 음식을 완성하는 동적 커트 구성 |
+| **입력 프롬프트** | `Slow-motion video of an elegant chef's hands finishing a fine-dining plate, subtle steam rising, warm luxurious ambience, cinematic depth of field, 2.5 seconds` |
+| **출력 결과 요약** | 2.5초의 감각적이고 고급스러운 조리/플레이팅 영상 |
+| **생성 파일명** | `Scene3_FineDining_Video_2.5s_v1.mp4` |
 
 #### 🎵 오디오 생성 도구
 | 항목 | 내용 |
 |------|------|
 | **도구명** | Soundly 또는 Freesound.org |
-| **사용 목적** | 식사 소리, 웃음소리, 배경음악 생성/다운로드 |
-| **입력 프롬프트** | `Dining ambience: cutlery clinking, rice being served, gentle laughter, warm background music, 2.5 seconds, intimate and joyful atmosphere` |
-| **출력 결과 요약** | 따뜻한 식탁의 자연스
+| **사용 목적** | 정갈하고 고급스러운 분위기의 클래식/앰비언트 사운드 효과 |
+| **입력 프롬프트** | `Gentle clinking of porcelain, subtle kitchen ambient sound, elegant cello melody, premium atmosphere, 2.5 seconds` |
+| **출력 결과 요약** | 고급 파인다이닝에 어울리는 감성적인 오디오 트랙 |
+| **생성 파일명** | `Scene3_Audio_FineDining_v1.mp3` |
+
+### 최종 산출물
+| 항목 | 내용 |
+|------|------|
+| **최종 영상 파일** | `Scene3_Complete_2.5s.mp4` |
+| **해상도** | 1920x1080 (Full HD) |
+| **프레임레이트** | 30fps |
+| **비트레이트** | 5000kbps |
+
+---
+
+## 🎬 씬 4: 엔딩 - 프리미엄 미식 경험 & CTA
+
+### 기본 정보
+| 항목 | 내용 |
+|------|------|
+| **씬 번호** | 4 |
+| **씬 길이** | 2.5초 |
+| **목표 메시지** | 브랜드 로고와 함께 '예당 스토리 테이블'만의 특별한 미식 여정 방문을 유도한다 |
+
+### 화면 구성
+| 항목 | 내용 |
+|------|------|
+| **구도** | 풀 샷 -> 로고 플레이스먼트 (16:9) |
+| **피사체** | 통창 너머 예당호가 펼쳐진 럭셔리한 테이블, 미소를 지으며 다이닝을 즐기는 방문객들, 로고 그래픽 |
+| **배경** | 예당호의 노을/풍경이 조화롭게 어우러진 모던 다이닝 홀 |
+| **텍스트 유무** | 있음 - 브랜드 로고, 대표 슬로건 및 예약/방문 CTA |
+
+### 내레이션 및 음향
+| 항목 | 내용 |
+|------|------|
+| **내레이션** | "예당 스토리 테이블" (브랜드명 명확하고 신뢰감 있는 톤) |
+| **화면 카피** | "오직 당신만을 위한 예당의 미식 여정" / **예당 스토리 테이블** (브랜드 로고 중심) |
+| **배경음악/음향** | 시그니처 징글(Jingle) 음악 페이드아웃 + 해돋이/노을 분위기의 클라이맥스 BGM |
+
+### 제작 도구 및 방법
+
+#### 📸 이미지 생성 도구
+| 항목 | 내용 |
+|------|------|
+| **도구명** | Midjourney / Gemini Flash |
+| **사용 목적** | 통창 너머 호수를 배경으로 펼쳐지는 미식 테이블 및 브랜드 분위기 완성 |
+| **입력 프롬프트** | `A high-end restaurant dining table overlooking Yedang Lake during dusk, elegant table setting with artistic dishes, warm ambient lighting, peaceful premium atmosphere, 16:9 cinematic shot` |
+| **출력 결과 요약** | 예당호 뷰를 담은 프리미엄 미식 공간의 대표 비주얼 |
+| **생성 파일명** | `Scene4_Dining_Space_Main_v1.png` |
+
+#### 🎥 비디오 생성/변환 도구
+| 항목 | 내용 |
+|------|------|
+| **도구명** | Adobe Premiere Pro / After Effects |
+| **사용 목적** | 호수 뷰 카메라 아웃 모션 및 모션 그래픽 브랜드 로고 페이드인 |
+| **입력 프롬프트** | `Slow pull-back camera motion showing the luxury table and Yedang Lake view, ending with elegant logo transition and fade out, 2.5 seconds` |
+| **출력 결과 요약** | 여운을 남기는 호수 뷰 엔딩 및 브랜드 타이틀 모션 영상 |
+| **생성 파일명** | `Scene4_Ending_CTA_Video_2.5s_v1.mp4` |
+
+#### 🎵 오디오 생성 도구
+| 항목 | 내용 |
+|------|------|
+| **도구명** | ElevenLabs (Voice) + Artlist (BGM) |
+| **사용 목적** | 브랜드 성우 내레이션 및 엔딩 BGM 완성 |
+| **입력 프롬프트** | `Sophisticated Korean male or female voice saying "Yedang Story Table", luxury brand tone, accompanied by gentle musical resolving chord` |
+| **출력 결과 요약** | 신뢰감 있고 품격 있는 브랜드 엔딩 나레이션 음원 |
+| **생성 파일명** | `Scene4_Audio_BrandJingle_v1.mp3` |
+
+### 최종 산출물
+| 항목 | 내용 |
+|------|------|
+| **최종 영상 파일** | `Scene4_Complete_2.5s.mp4` |
+| **해상도** | 1920x1080 (Full HD) |
+| **프레임레이트** | 30fps |
+| **비트레이트** | 5000kbps |
 
 ## STEP 8 · 최소 1개 씬에서 프롬프트 수정 전/후 기록하기
 한 씬 이상은 프롬프트를 수정한 과정을 남겨야 한다.
