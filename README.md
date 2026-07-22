@@ -346,7 +346,7 @@
 #### 🎥 비디오 생성/변환 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Runway ML 또는 Adobe Premiere Pro |
+| **도구명** | Gemini Flash |
 | **사용 목적** | 정적 이미지에 동적 효과 추가 (줌, 팬 효과) 또는 실제 영상 편집 |
 | **입력 프롬프트** | `Create a 2.5-second video: slow zoom-in on Yedang Lake landscape, gentle camera movement from left to right, golden hour lighting, cinematic quality` |
 | **출력 결과 요약** | 2.5초의 동적 호수 풍경 영상 (줌-인 및 팬 효과 포함) |
@@ -409,7 +409,7 @@
 #### 🎥 비디오 생성/변환 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Adobe Premiere Pro 또는 DaVinci Resolve |
+| **도구명** | Gemini Flash |
 | **사용 목적** | 여러 각도의 영상 편집, 자막 추가, 색감 보정 |
 | **입력 프롬프트** | `Edit 2.5-second sequence: close-up of storyteller's face → wide shot of group listening → close-up of visitor's reaction, smooth transitions, warm color grading` |
 | **출력 결과 요약** | 2.5초의 상호작용 장면 영상 (3개 컷 전환) |
