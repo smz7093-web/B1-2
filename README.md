@@ -6,7 +6,7 @@
 
 ## STEP 1 · 브랜드 1개 정하기
 
-[Scene4_Ending_CTA_Video_2.5s_v2.mp4](https://github.com/user-attachments/assets/eb6958b1-00fb-44ab-b537-8ef57cc66191)
+
 
 예당 스토리 테이블(로컬 관광 콘텐츠)
 
