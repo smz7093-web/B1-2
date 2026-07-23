@@ -548,7 +548,7 @@
 | **사용 목적** | 호수 뷰 카메라 아웃 모션 및 모션 그래픽 브랜드 로고 페이드인 |
 | **입력 프롬프트** | `Slow pull-back camera motion showing the luxury table and Yedang Lake view, ending with elegant logo transition and fade out, 2.5 seconds` |
 | **출력 결과 요약** | 여운을 남기는 호수 뷰 엔딩 및 브랜드 타이틀 모션 영상 |
-| **생성 파일명** | `Scene4_Ending_CTA_Video_2.5s_v1.mp4` |
+| **생성 파일명** | `Scene4_Ending_CTA_Video_2.5s_v2.mp4` |
 
 #### 🎵 오디오 생성 도구
 | 항목 | 내용 |
