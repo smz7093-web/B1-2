@@ -6,8 +6,6 @@
 
 ## STEP 1 · 브랜드 1개 정하기
 
-https://github.com/user-attachments/assets/eb6958b1-00fb-44ab-b537-8ef57cc66191
-
 예당 스토리 테이블(로컬 관광 콘텐츠)
 
 의미: 예당호의 이야기가 담긴 식탁
@@ -299,6 +297,8 @@ https://github.com/user-attachments/assets/eb6958b1-00fb-44ab-b537-8ef57cc66191
 | **해상도** | 1920x1080 (Full HD) |
 | **프레임레이트** | 30fps |
 | **비트레이트** | 5000kbps |
+
+https://github.com/user-attachments/assets/24e928a9-3dbb-410e-88af-d022cd1a816a
 
 ---
 
