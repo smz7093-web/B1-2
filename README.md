@@ -258,15 +258,15 @@
 | **도구명** | Flow |
 | **사용 목적** | 여러 각도의 영상 편집, 자막 추가, 색감 보정 |
 | **입력 프롬프트** | `Edit 3-second sequence: close-up of storyteller's face → wide shot of group listening → close-up of visitor's reaction, smooth transitions, warm color grading` |
-| **출력 결과 요약** | 2.5초의 상호작용 장면 영상 (3개 컷 전환) |
-| **생성 파일명** | `Scene1_Storytelling_Video_2.5s_v1.mp4` |
+| **출력 결과 요약** | 3초의 상호작용 장면 영상 |
+| **생성 파일명** | `Scene1_Storytelling_Video_3s_v1.mp4` |
 
 #### 🎵 오디오 생성 도구
 | 항목 | 내용 |
 |------|------|
 | **도구명** | ElevenLabs (AI 음성) |
 | **사용 목적** | 해설사의 목소리 |
-| **입력 프롬프트** | `Generate a warm, engaging voice narrating local history of Yedang Lake, 2.5 seconds, Korean language, natural tone` |
+| **입력 프롬프트** | `Generate a warm, engaging voice narrating local history of Yedang Lake, 3 seconds, Korean language, natural tone` |
 | **출력 결과 요약** | 지역 해설사의 따뜻한 목소리 오디오 |
 | **생성 파일명** | `Scene1_Audio_Storyteller_Voice_v1.mp3` |
 
@@ -289,13 +289,13 @@
 
 ---
 
-## 🎬 씬 3: 핵심 가치 - 요리연구가의 스토리 다이닝
+## 🎬 씬 2: 핵심 가치 - 요리연구가의 스토리 다이닝
 
 ### 기본 정보
 | 항목 | 내용 |
 |------|------|
-| **씬 번호** | 3 |
-| **씬 길이** | 2.5초 |
+| **씬 번호** | 2 |
+| **씬 길이** | 3초 |
 | **목표 메시지** | 세련된 요리연구가의 미식 퍼포먼스로 예당호 식재료의 프리미엄한 가치를 전달한다 |
 
 ### 화면 구성
@@ -309,8 +309,8 @@
 ### 내레이션 및 음향
 | 항목 | 내용 |
 |------|------|
-| **내레이션** | 없음 |
-| **화면 카피** | "예당의 이야기를 담아낸 프리미엄 다이닝" (자막, 1.5초 노출) |
+| **내레이션** | 예당호의 신선함이 그대로 담겨 있습니다. |
+| **화면 카피** | "예당의 맛" (자막, 1.5초 노출) |
 | **배경음악/음향** | 섬세한 플레이팅 소리 (집게 소리, 정갈한 오케스트라 첼로/피아노 선율) |
 
 ### 제작 도구 및 방법
@@ -322,12 +322,12 @@
 | **사용 목적** | 여성 요리연구가의 고급스러운 플레이팅 오프닝 장면 생성 |
 | **입력 프롬프트** | `A stylish female chef delicately plating a fine-dining dish using fresh local ingredients, modern open kitchen with a subtle view of Yedang Lake, warm elegant spot lighting, ultra-detailed, cinematic 16:9` |
 | **출력 결과 요약** | 요리연구가의 정갈하고 품격 있는 파인다이닝 플레이팅 장면 |
-| **생성 파일명** | `Scene3_Chef_Plating_v1.png` |
+| **생성 파일명** | `Scene2_Chef_Plating_v1.png` |
 
 #### 🎥 비디오 생성/변환 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Runway ML 또는 Adobe Premiere Pro |
+| **도구명** | Flow |
 | **사용 목적** | 플레이팅 손짓 및 음식을 완성하는 동적 커트 구성 |
 | **입력 프롬프트** | `Slow-motion video of an elegant chef's hands finishing a fine-dining plate, subtle steam rising, warm luxurious ambience, cinematic depth of field, 2.5 seconds` |
 | **출력 결과 요약** | 2.5초의 감각적이고 고급스러운 조리/플레이팅 영상 |
@@ -336,7 +336,7 @@
 #### 🎵 오디오 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Soundly 또는 Freesound.org |
+| **도구명** | ElevenLabs (AI 음성) |
 | **사용 목적** | 정갈하고 고급스러운 분위기의 클래식/앰비언트 사운드 효과 |
 | **입력 프롬프트** | `Gentle clinking of porcelain, subtle kitchen ambient sound, elegant cello melody, premium atmosphere, 2.5 seconds` |
 | **출력 결과 요약** | 고급 파인다이닝에 어울리는 감성적인 오디오 트랙 |
@@ -345,20 +345,20 @@
 ### 최종 산출물
 | 항목 | 내용 |
 |------|------|
-| **최종 영상 파일** | `Scene3_Complete_2.5s.mp4` |
+| **최종 영상 파일** | `Scene3_Complete_3s.mp4` |
 | **해상도** | 1920x1080 (Full HD) |
 | **프레임레이트** | 30fps |
 | **비트레이트** | 5000kbps |
 
 ---
 
-## 🎬 씬 4: 엔딩 - 프리미엄 미식 경험 & CTA
+## 🎬 씬 3: 엔딩 - 프리미엄 미식 경험 & 브랜딩
 
 ### 기본 정보
 | 항목 | 내용 |
 |------|------|
-| **씬 번호** | 4 |
-| **씬 길이** | 2.5초 |
+| **씬 번호** | 3 |
+| **씬 길이** | 3초 |
 | **목표 메시지** | 브랜드 로고와 함께 '예당 스토리 테이블'만의 특별한 미식 여정 방문을 유도한다 |
 
 ### 화면 구성
@@ -372,9 +372,9 @@
 ### 내레이션 및 음향
 | 항목 | 내용 |
 |------|------|
-| **내레이션** | "예당 스토리 테이블" (브랜드명 명확하고 신뢰감 있는 톤) |
-| **화면 카피** | "오직 당신만을 위한 예당의 미식 여정" / **예당 스토리 테이블** (브랜드 로고 중심) |
-| **배경음악/음향** | 시그니처 징글(Jingle) 음악 페이드아웃 + 해돋이/노을 분위기의 클라이맥스 BGM |
+| **내레이션** | "맛있게 드시고 좋은 추억 만드세요" (브랜드명 명확하고 신뢰감 있는 톤) |
+| **화면 카피** | **예당 스토리 테이블** (브랜드 로고 중심) |
+| **배경음악/음향** | 음악 페이드아웃 + 해돋이/노을 분위기의 클라이맥스 BGM |
 
 ### 제작 도구 및 방법
 
@@ -390,25 +390,25 @@
 #### 🎥 비디오 생성/변환 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Adobe Premiere Pro / After Effects |
+| **도구명** | Flow |
 | **사용 목적** | 호수 뷰 카메라 아웃 모션 및 모션 그래픽 브랜드 로고 페이드인 |
-| **입력 프롬프트** | `Slow pull-back camera motion showing the luxury table and Yedang Lake view, ending with elegant logo transition and fade out, 2.5 seconds` |
+| **입력 프롬프트** | `Slow pull-back camera motion showing the luxury table and Yedang Lake view, ending with elegant logo transition and fade out, 3 seconds` |
 | **출력 결과 요약** | 여운을 남기는 호수 뷰 엔딩 및 브랜드 타이틀 모션 영상 |
-| **생성 파일명** | `Scene4_Ending_CTA_Video_2.5s_v2.mp4` |
+| **생성 파일명** | `Scene3_Ending_Video_3s_v2.mp4` |
 
 #### 🎵 오디오 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | ElevenLabs (Voice) + Artlist (BGM) |
+| **도구명** | ElevenLabs (Voice) |
 | **사용 목적** | 브랜드 성우 내레이션 및 엔딩 BGM 완성 |
 | **입력 프롬프트** | `Sophisticated Korean male or female voice saying "Yedang Story Table", luxury brand tone, accompanied by gentle musical resolving chord` |
 | **출력 결과 요약** | 신뢰감 있고 품격 있는 브랜드 엔딩 나레이션 음원 |
-| **생성 파일명** | `Scene4_Audio_BrandJingle_v1.mp3` |
+| **생성 파일명** | `Scene3_Audio_BrandJingle_v1.mp3` |
 
 ### 최종 산출물
 | 항목 | 내용 |
 |------|------|
-| **최종 영상 파일** | `Scene4_Complete_2.5s.mp4` |
+| **최종 영상 파일** | `Scene3_Complete_3s.mp4` |
 | **해상도** | 1920x1080 (Full HD) |
 | **프레임레이트** | 30fps |
 | **비트레이트** | 5000kbps |
@@ -419,38 +419,28 @@ https://github.com/user-attachments/assets/24e928a9-3dbb-410e-88af-d022cd1a816a
 
 씬3의 프롬프트 수정함
 
-수정 전: 씬4의 마지막 부분의 콘텐츠 명과 회사명이 잘못 보여짐
+수정 전: 씬3의 마지막 부분의 콘텐츠 명과 회사명이 잘못 보여짐
 
 수정 후: 제대로 된 콘텐츠명과 회사명으로 수정요구함
 
 결과: 개선됨
 
 ## STEP 9 · 생성형 AI 도구 3종 이상 준비하기
-반드시 아래 종류를 각각 1개 이상 사용해야 한다.
 
-이미지 생성 AI 1종 이상
-비디오 생성 또는 이미지→비디오 변환 AI 1종 이상
-오디오 생성 AI 1종 이상
-또한 각 도구마다 기록해야 한다.
-
-도구명
-왜 이 도구를 골랐는지
-어떤 씬에서 어떤 목적으로 썼는지
+이미지 생성 AI: Gemini Flash
+비디오 생성 또는 이미지→비디오 변환 AI: Flow
+오디오 생성 AI Suno(음악), ElevenLabs(음성) 
 
 ## STEP 10 · 대체 도구도 준비하기
-과제 조건상, 특정 도구가 막힐 수 있으므로 대체 도구를 적어야 한다.
 
-각 영역별로 최소 1개 이상 기록:
-
-이미지 생성 대체 도구:
+이미지 생성 대체 도구: 
 GPT 무료버전
 비디오 생성/변환 대체 도구:
 kling
 오디오 생성 대체 도구: 
-Suno
+Suno, Flow
 
 ## STEP 11 · 이미지 생성 단계 먼저 진행하기
-비용/크레딧 제한 때문에 먼저 해야 하는 일이다.
 
 순서:
 
@@ -465,12 +455,9 @@ Suno
 캐릭터
 배경
 텍스트 공간
-등을 맞춰야 이후 영상화가 쉬워진다.
+등을 맞춰야 이후 영상화가 쉬워짐
 
 ## STEP 12 · 스타일/캐릭터 일관성 유지 전략 정하기
-브랜드 광고는 장면마다 톤이 달라지면 완성도가 떨어진다.
-
-그래서 정해야 할 것:
 
 같은 색감 유지
 같은 캐릭터/의상/세계관 유지
@@ -479,101 +466,45 @@ Suno
 Character Reference
 Style Reference
 기타 제어 기능
-사용했다면,
-
-무엇을 고정했는지
-왜 고정했는지
-설명할 수 있어야 한다.
 
 ## STEP 13 · 비디오 생성 또는 변환 진행하기
+
 이미지 생성 결과를 바탕으로
 
 짧은 모션 영상으로 만들거나
 텍스트/이미지 기반 영상 생성
-을 진행한다.
-여기서 정리할 것:
+을 진행
 
 어떤 이미지/프롬프트를 영상화했는지
 어떤 움직임을 의도했는지
-패닝
-줌
-루프
-카메라 이동
-씬 길이에 맞게 결과가 나왔는지
+씬 길이에 맞게 결과가 나왔는지 체크함
 
 ## STEP 14 · 오디오 요소 생성하기
-영상에는 반드시 AI로 생성된 청각 요소가 들어가야 한다.
-
-가능한 요소:
 
 배경음악
 효과음
-AI 음성 내레이션
-최소한 1개 이상은 반드시 포함해야 한다.
-
-정리할 것:
+AI 음성 내레이션을 포함함
 
 어떤 오디오를 넣을지
 브랜드 분위기와 맞는지
 어떤 도구로 만들었는지
-어떤 장면에 붙일지
+어떤 장면에 붙일지 체크함
 
 ## STEP 15 · 최종 영상의 스토리라인 점검하기
-완성 전 반드시 확인해야 한다.
-
-아래 둘 중 하나는 만족해야 한다.
 
 기승전결 구조
 문제 → 전환 → 해결
 명확한 가치 전달 구조
-누구에게 어떤 가치인지 분명하게 전달
-즉, 단순한 예쁜 영상 모음이면 부족하고
-광고로서 메시지가 보여야 한다.
+누구에게 어떤 가치인지 분명하게 전달할 것(광고성)을 목표로 제작함
 
 ## STEP 16 · 마지막 3~5초 브랜드 노출 넣기
-마지막 구간에는 반드시 아래 중 1개 이상이 들어가야 한다.
 
 로고
 브랜드명
 슬로건
-CTA(Call to Action)
-이 부분이 빠지면 광고 완성도 조건을 충족하지 못할 수 있다.
+CTA(Call to Action) 이부분은 사용안함
 
-## STEP 17 · 편집 도구로 통합 편집하기
-영상 편집 프로그램은 사용할 수 있지만, 통합 편집용으로 제한적 사용해야 한다.
-
-허용 범위:
-
-컷 편집
-자막 삽입
-간단한 색보정
-오디오 레벨 조정
-장면 연결
-주의:
-
-핵심 비주얼과 오디오는 AI 생성 결과물이 주된 소스여야 한다.
-직접 촬영 영상, 유료 스톡 영상은 사용하면 안 된다.
-
-## STEP 18 · 최종 영상 파일 만들기
-최종 산출물 중 하나는 MP4 영상 파일 1개다.
-
-조건:
-
-길이 10초 이내
-시각 요소는 생성형 AI 결과물 포함
-청각 요소는 생성형 AI 결과물 포함
-파일 형식은 MP4
-권장 스펙:
-
-1080p
-24~30fps
-H.264
-AAC
-어려우면:
-
-720p 이상도 가능
-
-## STEP 19 · 스토리보드 문서(PDF) 작성하기
+## STEP 17 · 스토리보드 문서(PDF) 작성하기
 최종 산출물 중 하나는 스토리보드(기획) 문서 PDF 1개다.
 
 반드시 포함해야 할 항목:
