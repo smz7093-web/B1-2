@@ -18,7 +18,7 @@
 
 예당 스토리 테이블 - 브랜드 아이덴티티 정의서
 
-**1) 브랜드명
+**1) 브랜드명:
 예당 스토리 테이블
 
 예당호의 풍경, 역사, 사람, 식재료가 모두 모이는 '식탁'
@@ -222,8 +222,8 @@
 ### 기본 정보
 | 항목 | 내용 |
 |------|------|
-| **씬 번호** | 2 |
-| **씬 길이** | 2.5초 |
+| **씬 번호** | 1 |
+| **씬 길이** | 3초 |
 | **목표 메시지** | 예당호를 걸으며 지역의 이야기를 듣는 경험을 시각화한다 |
 
 ### 화면 구성
@@ -232,13 +232,13 @@
 | **구도** | 클로즈업 + 와이드샷 조합 (16:9) |
 | **피사체** | 해설사(또는 농부)가 방문객들에게 이야기하는 모습, 방문객들의 표정 |
 | **배경** | 예당호 수변길, 마을 풍경, 역사적 건물 또는 수몰마을 흔적 |
-| **텍스트 유무** | 있음 - 슬로건의 일부 자막 |
+| **텍스트 유무** | 있음 - 관광지 명 자막처리 |
 
 ### 내레이션 및 음향
 | 항목 | 내용 |
 |------|------|
 | **내레이션** | 없음 (또는 해설사의 목소리 일부 사용) |
-| **화면 카피** | "예당호를 걷고, 지역의 이야기를 듣고" (자막, 1.5초 노출) |
+| **화면 카피** | "예당호 출렁다리" (자막, 1.5초 노출) |
 | **배경음악/음향** | 해설사의 목소리 + 잔잔한 배경음악 (음량 낮게) |
 
 ### 제작 도구 및 방법
@@ -250,39 +250,39 @@
 | **사용 목적** | 해설사와 방문객이 상호작용하는 장면 생성 (실제 촬영이 어려운 경우) |
 | **입력 프롬프트** | `A local storyteller or farmer explaining the history of Yedang Lake to visitors, warm and engaging atmosphere, natural lighting, cinematic composition, 16:9` |
 | **출력 결과 요약** | 지역 해설사가 방문객들에게 이야기하는 따뜻한 장면 |
-| **생성 파일명** | `Scene2_Storyteller_Interaction_v1.png` |
+| **생성 파일명** | `Scene1_Storyteller_Interaction_v1.png` |
 
 #### 🎥 비디오 생성/변환 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Gemini Flash |
+| **도구명** | Flow |
 | **사용 목적** | 여러 각도의 영상 편집, 자막 추가, 색감 보정 |
-| **입력 프롬프트** | `Edit 2.5-second sequence: close-up of storyteller's face → wide shot of group listening → close-up of visitor's reaction, smooth transitions, warm color grading` |
+| **입력 프롬프트** | `Edit 3-second sequence: close-up of storyteller's face → wide shot of group listening → close-up of visitor's reaction, smooth transitions, warm color grading` |
 | **출력 결과 요약** | 2.5초의 상호작용 장면 영상 (3개 컷 전환) |
-| **생성 파일명** | `Scene2_Storytelling_Video_2.5s_v1.mp4` |
+| **생성 파일명** | `Scene1_Storytelling_Video_2.5s_v1.mp4` |
 
 #### 🎵 오디오 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | ElevenLabs (AI 음성) 또는 실제 녹음 |
-| **사용 목적** | 해설사의 목소리 또는 배경음악 생성 |
+| **도구명** | ElevenLabs (AI 음성) |
+| **사용 목적** | 해설사의 목소리 |
 | **입력 프롬프트** | `Generate a warm, engaging voice narrating local history of Yedang Lake, 2.5 seconds, Korean language, natural tone` |
 | **출력 결과 요약** | 지역 해설사의 따뜻한 목소리 오디오 |
-| **생성 파일명** | `Scene2_Audio_Storyteller_Voice_v1.mp3` |
+| **생성 파일명** | `Scene1_Audio_Storyteller_Voice_v1.mp3` |
 
 #### 📝 자막 생성 도구
 | 항목 | 내용 |
 |------|------|
-| **도구명** | Adobe Premiere Pro 또는 Subtitle Edit |
+| **도구명** | CapCut |
 | **사용 목적** | 슬로건의 일부 자막 추가 |
-| **입력 텍스트** | "예당호를 걷고, 지역의 이야기를 듣고" |
+| **입력 텍스트** | "예당호 출렁다리" |
 | **출력 결과 요약** | 화면 하단에 나타나는 자막 (1.5초 노출) |
-| **생성 파일명** | `Scene2_Subtitle_v1.srt` |
+| **생성 파일명** | `Scene1_Subtitle_v1.srt` |
 
 ### 최종 산출물
 | 항목 | 내용 |
 |------|------|
-| **최종 영상 파일** | `Scene2_Complete_2.5s.mp4` |
+| **최종 영상 파일** | `Scene1_Complete_3s.mp4` |
 | **해상도** | 1920x1080 (Full HD) |
 | **프레임레이트** | 30fps |
 | **비트레이트** | 5000kbps |
@@ -417,7 +417,7 @@ https://github.com/user-attachments/assets/24e928a9-3dbb-410e-88af-d022cd1a816a
 
 ## STEP 8 · 최소 1개 씬에서 프롬프트 수정 전/후 기록하기
 
-씬4의 프롬프트 수정함
+씬3의 프롬프트 수정함
 
 수정 전: 씬4의 마지막 부분의 콘텐츠 명과 회사명이 잘못 보여짐
 
@@ -442,10 +442,12 @@ https://github.com/user-attachments/assets/24e928a9-3dbb-410e-88af-d022cd1a816a
 
 각 영역별로 최소 1개 이상 기록:
 
-이미지 생성 대체 도구
-비디오 생성/변환 대체 도구
-오디오 생성 대체 도구
-이건 실제 사용 여부와 별개로 대안 기록이 필요하다.
+이미지 생성 대체 도구:
+GPT 무료버전
+비디오 생성/변환 대체 도구:
+kling
+오디오 생성 대체 도구: 
+Suno
 
 ## STEP 11 · 이미지 생성 단계 먼저 진행하기
 비용/크레딧 제한 때문에 먼저 해야 하는 일이다.
