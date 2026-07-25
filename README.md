@@ -533,4 +533,4 @@ final_brand_ad.mp4
 
 9:16 화면 비율 버전
 
-(https://github.com/smz7093-web/B1-2/issues/3#issue-4975481240)
+https://github.com/smz7093-web/B1-2/issues/2#issue-4967031700
