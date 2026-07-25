@@ -531,6 +531,6 @@ final_brand_ad.mp4
 
 ## STEP 19 · 보너스 과제
 
-9:16 화면 비율 버전 제작
+9:16 화면 비율 버전
 
-https://github.com/smz7093-web/B1-2/issues/3
+(https://github.com/smz7093-web/B1-2/issues/3#issue-4975481240)
