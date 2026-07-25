@@ -415,6 +415,7 @@
 
 https://github.com/user-attachments/assets/24e928a9-3dbb-410e-88af-d022cd1a816a
 
+
 ## STEP 8 · 최소 1개 씬에서 프롬프트 수정 전/후 기록하기
 
 씬3의 프롬프트 수정함
